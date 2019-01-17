@@ -2,18 +2,20 @@
 Deep Learning Course Assignments 
 
 
-DeepLearningCourse
- -- LogisticRegression.py  
- پیاده سازی لاجستیک رگرشن با شبکه عصبی بدون تنسورفلو 
- DATASET : fashion mnist
- OPTIMIZER : Gradient Descent ( full batch , mini batch)
- OUTPUT LAYER : sigmoid
- 
- --deepNet.v1.py 
+<br/>
+ <h3>-- LogisticRegression.py </h3> <br/>
+	پیاده سازی لاجستیک رگرشن با شبکه عصبی بدون تنسورفلو 
+<li>DATASET :  fashion mnist</li>
+ <li>OPTIMIZER : Gradient Descent ( full batch , mini batch)</li>
+ <li>OUTPUT LAYER : sigmoid</li>
+  <h3>--deepNet.v1.py  </h3>
+	<br/>
  تکمیل فایل با نوشتن کاست فانکشن و  پیاده سازی به صورت فول و مینی بچ 
-  
---CNN.py
+  <br/>
+ <h3>--CNN.py </h3>
+<br/>
  پیاده سازی کانولوشن شبکه عصبی با تنسورفلو و کراس
- DATASET : minst
- OPTIMIZER : Adam
- OUTPUT LAYER : softmax
+
+<li>DATASET : minst</li>
+ <li>OPTIMIZER : Adam</li>
+ <li>OUTPUT LAYER : softmax</li>
