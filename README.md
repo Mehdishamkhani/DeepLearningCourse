@@ -9,7 +9,7 @@ implementation of Logistic Regression  in Tensorflow
  <li>OPTIMIZER : Gradient Descent </li>
  <li>OUTPUT LAYER : sigmoid</li><br/><br/>
   <h3>--deepNet.v1.py  </h3>
-pure basic deepNet implementation (fullbatch ,minibatch)	
+ basic pure deepNet implementation (fullbatch ,minibatch)	
 <li>OPTIMIZER : Gradient Descent </li>
  <li>OUTPUT LAYER : sigmoid</li><br/><br/>
  <h3>--CNN.py </h3>
